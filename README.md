@@ -2,4 +2,4 @@
 
 ## Recipe-book App
 
-Recipe book App using Angular!
+First steps using Angular!
